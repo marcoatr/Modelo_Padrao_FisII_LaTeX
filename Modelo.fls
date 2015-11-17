@@ -1,10 +1,10 @@
-PWD /home/mrc/MEGA/Projetos/Modelo fisica exp 2
+PWD /home/mrc/MEGA/Projetos/Modelo_Padrao_FisII_LaTeX
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/mrc/MEGA/Projetos/Modelo fisica exp 2/Modelo.tex
-OUTPUT /home/mrc/MEGA/Projetos/Modelo fisica exp 2/Modelo.log
+INPUT /home/mrc/MEGA/Projetos/Modelo_Padrao_FisII_LaTeX/Modelo.tex
+OUTPUT /home/mrc/MEGA/Projetos/Modelo_Padrao_FisII_LaTeX/Modelo.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -64,9 +64,9 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /home/mrc/MEGA/Projetos/Modelo fisica exp 2/Modelo.aux
-INPUT /home/mrc/MEGA/Projetos/Modelo fisica exp 2/Modelo.aux
-OUTPUT /home/mrc/MEGA/Projetos/Modelo fisica exp 2/Modelo.aux
+INPUT /home/mrc/MEGA/Projetos/Modelo_Padrao_FisII_LaTeX/Modelo.aux
+INPUT /home/mrc/MEGA/Projetos/Modelo_Padrao_FisII_LaTeX/Modelo.aux
+OUTPUT /home/mrc/MEGA/Projetos/Modelo_Padrao_FisII_LaTeX/Modelo.aux
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
@@ -98,23 +98,24 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
-OUTPUT /home/mrc/MEGA/Projetos/Modelo fisica exp 2/Modelo.pdf
+OUTPUT /home/mrc/MEGA/Projetos/Modelo_Padrao_FisII_LaTeX/Modelo.pdf
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
-INPUT /home/mrc/MEGA/Projetos/Modelo fisica exp 2/ex.png
-INPUT /home/mrc/MEGA/Projetos/Modelo fisica exp 2/ex.png
-INPUT /home/mrc/MEGA/Projetos/Modelo fisica exp 2/ex.png
-INPUT /home/mrc/MEGA/Projetos/Modelo fisica exp 2/Modelo.bbl
-INPUT /home/mrc/MEGA/Projetos/Modelo fisica exp 2/Modelo.bbl
-INPUT /home/mrc/MEGA/Projetos/Modelo fisica exp 2/Modelo.aux
+INPUT /home/mrc/MEGA/Projetos/Modelo_Padrao_FisII_LaTeX/ex.png
+INPUT /home/mrc/MEGA/Projetos/Modelo_Padrao_FisII_LaTeX/ex.png
+INPUT /home/mrc/MEGA/Projetos/Modelo_Padrao_FisII_LaTeX/ex.png
+INPUT /home/mrc/MEGA/Projetos/Modelo_Padrao_FisII_LaTeX/Modelo.bbl
+INPUT /home/mrc/MEGA/Projetos/Modelo_Padrao_FisII_LaTeX/Modelo.bbl
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
+INPUT /home/mrc/MEGA/Projetos/Modelo_Padrao_FisII_LaTeX/Modelo.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
